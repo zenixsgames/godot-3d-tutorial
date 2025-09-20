@@ -12,6 +12,10 @@ This project is a personal project following the `How to make 3D Games in Godot`
   <img width="480" height="270" alt="Image" src="https://github.com/user-attachments/assets/9a30893e-159f-4c6e-8720-9036cab70e6f" />
 </p>
 
+|Version|Feature|
+|---|---|
+|0.1.0|GreyBoxing|
+
 ## 🛠️ Installation
 
 ```bash
